@@ -9,7 +9,7 @@ class CrowdOauthController < AccountController
 
   def failure
     flash[:error] = l(params[:message])
-    redirect_to signin_path
+    redirect_to :back
   end
 
   private

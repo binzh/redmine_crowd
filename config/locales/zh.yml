@@ -1,0 +1,9 @@
+zh:
+  sign_in_notice: 本页面为Redmine账户登录
+  sign_in_via_crowd: 通过Crowd账号登录
+  invalid_credentials: 登录失败
+  force_sign_up: 强制注册
+  true_false_select: [['是',true], ['否',false]]
+  force_sign_up_em: 账号无需管理员审批，自动激活。
+  close_system_login: 关闭系统登录
+  close_system_login_em: 关闭Redmine系统注册以及登录功能

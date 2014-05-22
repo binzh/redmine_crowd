@@ -1,0 +1,12 @@
+<p>
+  <%= label_tag :force_sign_up, l("force_sign_up") %>
+  <%= select_tag 'settings[force_sign_up]', options_for_select(l('true_false_select'), @settings[:force_sign_up]) %>
+  <br/>
+  <em><%= l('force_sign_up_em') %></em>
+</p>
+<p>
+  <%= label_tag :close_system_login, l("close_system_login") %>
+  <%= select_tag 'settings[close_system_login]', options_for_select(l('true_false_select'), @settings[:close_system_login]) %>
+  <br/>
+  <em><%= l('close_system_login_em') %></em>
+</p>

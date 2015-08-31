@@ -1,0 +1,10 @@
+en:
+  sign_in_notice: Redmine login
+  sign_in_via_crowd: Crowd login
+  invalid_credentials: Invalid credentials
+  force_sign_up: Activate user after first login?
+  true_false_select: [['Yes',true], ['No',false]]
+  force_sign_up_em: Manual activation required if negative.
+  close_system_login: Disable Redmine login
+  close_system_login_em: If selected - Redmine login with internal accounts will be disabled
+  

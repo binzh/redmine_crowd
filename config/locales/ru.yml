@@ -1,0 +1,9 @@
+ru:
+  sign_in_notice: Вход через Redmine
+  sign_in_via_crowd: Вход через Crowd
+  invalid_credentials: Неверные учетные данные
+  force_sign_up: Активировать пользователя после первого входа?
+  true_false_select: [['Да',true], ['Нет',false]]
+  force_sign_up_em: Если выбрано "Нет" - администратор должен активировать пользователя вручную.
+  close_system_login: Отключить вход через Redmine
+  close_system_login_em: Если выбрано - вход через внутренние учетные записи Redmine будет невозможен
